@@ -1,8 +1,10 @@
 # Rutina de gimnasia
 
-combina ejercicios clásicos como The Hundred y Shoulder Bridge para activar profundamente los abdominales y los glúteos, junto con movimientos de estiramiento y control postural que liberan tensiones y aumentan la flexibilidad de la columna vertebral
+Ejemplo de otro caso de uso para una aplicacion similar.
 
-![https://upload.wikimedia.org/wikipedia/commons/9/91/Pilates_01.jpg](foto)
+Combina ejercicios clásicos como The Hundred y Shoulder Bridge para activar profundamente los abdominales y los glúteos, junto con movimientos de estiramiento y control postural que liberan tensiones y aumentan la flexibilidad de la columna vertebral
+
+![foto](https://upload.wikimedia.org/wikipedia/commons/9/91/Pilates_01.jpg)
 
 ## Ingredientes
 
