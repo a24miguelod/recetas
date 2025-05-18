@@ -2,7 +2,7 @@
 
 Esta receta es un clásico de la cocina francesa que transforma ingredientes sencillos en un plato lleno de matices. Los guisantes se cocinan con bacon, cebolla y lechuga en una salsa cremosa de leche, acompañados opcionalmente de huevo poché. Ideal como guarnición o plato principal ligero.
 
-[gisantes.webp](https://upload.wikimedia.org/wikipedia/commons/1/10/Receta_de_Panzanella.jpg)
+![gisantes.webp](https://upload.wikimedia.org/wikipedia/commons/1/10/Receta_de_Panzanella.jpg)
 
 ## Ingredientes
 

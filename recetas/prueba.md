@@ -2,7 +2,7 @@
 
 combina ejercicios clásicos como The Hundred y Shoulder Bridge para activar profundamente los abdominales y los glúteos, junto con movimientos de estiramiento y control postural que liberan tensiones y aumentan la flexibilidad de la columna vertebral
 
-![http://192.168.1.138:8000/fotos/ramen.webp](foto)
+![https://upload.wikimedia.org/wikipedia/commons/9/91/Pilates_01.jpg](foto)
 
 ## Ingredientes
 
