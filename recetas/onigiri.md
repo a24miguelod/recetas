@@ -2,7 +2,7 @@
 
 El onigiri es el snack japonés por excelencia, un práctico triángulo de arroz relleno que combina texturas y sabores en cada bocado. Esta versión con atún y mayonesa es una de las más populares, perfecta para llevar en el bento o disfrutar como tentempié. La clave está en usar arroz de grano corto y moldearlo con las manos húmedas para conseguir la textura perfecta.
 
-![http://192.168.1.138:8000/fotos/ramen.webp](foto)
+[onigiri.webp](https://upload.wikimedia.org/wikipedia/commons/4/42/Spicy_Char-Siu_Onigiri.jpg)
 
 ## Ingredientes
 

@@ -4,7 +4,7 @@ Plato típico de Cádiz que, pese a su nombre, no lleva huevos. Se prepara con u
 
 Para conseguir esa textura parecida a de los huevos cocidos, de ahí el nombre de esta receta, debemos obtener una masa parecida a la de las croquetas, que debemos cocer hasta que se separe de las paredes del cazo en el que la estamos preparando. Una vez en su punto, dejaremos enfriar la masa en la nevera, después de haberla extendido, para luego cortarla dados del mismo tamaño.
 
-![http://192.168.1.138:8000/fotos/huevos.webp](foto)
+[huevos.webp](https://upload.wikimedia.org/wikipedia/commons/1/11/Receta_de_Cocina_Uruguay_-_bizcochitosdeespinacayqueso.jpg)
 
 ## Ingredientes
 

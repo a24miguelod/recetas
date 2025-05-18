@@ -2,7 +2,7 @@
 
 La tempura es una técnica japonesa de fritura que crea una capa exterior increíblemente ligera y crujiente. Esta versión vegetal destaca la frescura de los ingredientes con un rebozado aireado que se prepara en minutos.
 
-![http://192.168.1.138:8000/fotos/tempura.webp](foto)
+[tempura.webp](https://upload.wikimedia.org/wikipedia/commons/4/4d/Prawn-tempura-box.jpg)
 
 ## Ingredientes
 

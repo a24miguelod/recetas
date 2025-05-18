@@ -1,6 +1,6 @@
 # Tortilla de ejemplo
 
-![http://192.168.1.138:8000/fotos/tortilla.webp](foto)
+[tortilla.webp](https://upload.wikimedia.org/wikipedia/commons/8/81/Tortilla_de_papas_%28estilo_argentino%29.jpg)
 
 Esta es una receta de ejemplo con pasos muy cortos para comprobar el flow
 

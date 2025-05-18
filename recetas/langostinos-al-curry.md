@@ -6,7 +6,7 @@ Para preparar la salsa de los langostinos vamos a usar curry en polvo ya prepara
 
 Tal como os comentábamos al comienzo, serviremos los langostinos al curry acompañados con arroz basmati, que herviremos mientras preparamos la salsa de curry. ¡El resultado es delicioso!
 
-![http://192.168.1.138:8000/fotos/langostinos-curry.webp](foto)
+[langostinos-curry.webp](https://upload.wikimedia.org/wikipedia/commons/f/f6/Langostinos%2C_Ecuador_%282284634408%29.jpg)
 
 ## Ingredientes
 

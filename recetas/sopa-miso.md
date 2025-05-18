@@ -2,7 +2,8 @@
 
 Una reconfortante sopa japonesa tradicional que combina el umami del miso con la suavidad del tofu y la textura carnosa de los champiñones. Perfecta como entrante ligero o cena saludable, esta versión lleva un toque especial de jengibre fresco para darle un toque vibrante.
 
-![http://192.168.1.138:8000/fotos/sopa-miso.webp](foto)
+[sopa-miso.webp](https://upload.wikimedia.org/wikipedia/commons/e/e8/Miso_Soup_001.jpg)
+
 
 ## Ingredientes
 

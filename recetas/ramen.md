@@ -2,7 +2,7 @@
 
 El ramen es el reconfortante plato japonés por excelencia, con su caldo aromático, fideos al dente y tierna carne de cerdo. Esta versión casera simplifica el proceso tradicional pero mantiene todo el sabor umami.
 
-![http://192.168.1.138:8000/fotos/ramen.webp](foto)
+[ramen.webp](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ramen_and_Chahan_003.jpg)
 
 ## Ingredientes
 
