@@ -11,13 +11,17 @@ Este script sin dependencias simula la api de github devolviendo:
 * Un fichero markdown si la url comienza por _recetas_
 * Una foto de la carpeta _fotos_ si la url comienza por _fotos_
 
-```bash python3 github-mock.py ```
+### Ejecucion
+
+```bash
+python3 github-mock.py
+```
 
 ## Carpeta recetas
 
 Recetas de ejemplo, generadas básicamente por IA
 
-## Carpeta imágenes
+## Carpeta fotos
 
 Las imágenes están obtenidas de WikiMedia y convertidas a webp, y no se
 corresponden con la receta en si.
